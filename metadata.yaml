@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8331
     wikipedia: http://en.wikipedia.org/wiki/William_Lisle_Bowles
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32145#The-Poetical-Works-of-William-Lisle-Bowles-Vol.-2
 gutenberg_issued: '2010-04-26'
 gutenberg_type: Text
 identifiers:
